@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env*
+!.env.example
+*.blend1
+kit_out/
+.gpu.queue/
+pipeline/env.local.sh
+generate/spend.jsonl
